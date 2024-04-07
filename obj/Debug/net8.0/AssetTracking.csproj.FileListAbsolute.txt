@@ -1,0 +1,14 @@
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\bin\Debug\net8.0\AssetTracking.exe
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\bin\Debug\net8.0\AssetTracking.deps.json
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\bin\Debug\net8.0\AssetTracking.runtimeconfig.json
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\bin\Debug\net8.0\AssetTracking.dll
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\bin\Debug\net8.0\AssetTracking.pdb
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.AssemblyInfoInputs.cache
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.AssemblyInfo.cs
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.csproj.CoreCompileInputs.cache
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.dll
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\refint\AssetTracking.dll
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.pdb
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\AssetTracking.genruntimeconfig.cache
+C:\Users\lilyi\source\repos\AssetTracking\AssetTracking\obj\Debug\net8.0\ref\AssetTracking.dll
